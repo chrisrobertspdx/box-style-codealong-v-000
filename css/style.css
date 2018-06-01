@@ -317,7 +317,9 @@ color:white;
 
 /*////////// LOGO //////////*/
 
-
+#logo {
+  padding: 84px
+}
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
